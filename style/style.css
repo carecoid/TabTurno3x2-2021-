@@ -60,8 +60,8 @@ td{
 }
 
 .text-overflow{
-    /* white-space: nowrap; */
-    /* overflow: hidden; */
+    white-space: nowrap;
+    overflow: hidden;
     font-size: 0.8rem;
     /* text-overflow: ellipsis; */
     /* border: black solid 1px; */
