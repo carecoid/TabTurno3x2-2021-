@@ -59,6 +59,14 @@ td{
     background-color: #fad13e;
 }
 
+.text-overflow{
+    /* white-space: nowrap; */
+    /* overflow: hidden; */
+    font-size: 0.8rem;
+    /* text-overflow: ellipsis; */
+    /* border: black solid 1px; */
+}
+
 /* 
 #F38181 Vermelho
 #EAFFD0 Verde Claro
