@@ -60,6 +60,7 @@ td{
 }
 
 .text-overflow{
+    table-layout: fixed;
     white-space: nowrap;
     overflow: hidden;
     font-size: 0.8rem;
