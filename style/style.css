@@ -63,7 +63,7 @@ td{
     white-space: nowrap;
     overflow: hidden;
     font-size: 0.8rem;
-    /* text-overflow: ellipsis; */
+    text-overflow: ellipsis;
     /* border: black solid 1px; */
 }
 
